@@ -1,0 +1,31 @@
+sub-48: ISC - less than 310 timepoints
+sub-78: ISC - two files - one 1MB other ~~100MB (selected heavier)
+sub-93: ISC - two files - one 1MB other ~~100MB (selected heavier)
+sub-143: ISC - 1 file but 493 timepoints (184MB) and weird brain image 
+sub-147: NO ISC - exclude - removed from my BIDS
+
+
+
+
+
+
+Freesurfer files correction done - WILL THE NEW ONES BE OK?!
+
+Need to apply the fix json code to all the new BIDS
+
+
+
+
+
+
+incomplete (need to convert?! Classic to Enhanced): BSCMR019 DONE
+
+Make sure subject 003 is correct in the BIDS final - done
+
+no fmap: REALLY NO FMAP (subj 4,3,2,1) - done
+7,6,5, had only magnitude, no phase - deleted FMAP folder not usable -done
+
+FMAP: unzipped: 148, 100, 019 -DONE (these are using derived files, not original - Vasco says it doesn't matter)
+
+
+Ready to run

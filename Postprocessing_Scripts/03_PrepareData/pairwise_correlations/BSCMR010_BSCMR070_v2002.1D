@@ -1,0 +1,17 @@
+# <AFNI_3D_dataset
+#  self_idcode = "AFN_QytSx0N23rVtBq69knXRWA"
+#  ni_type     = "1*float"
+#  ni_dimen    = "7,1,1"
+#  ni_delta    = "1,1,1"
+#  ni_origin   = "0,0,0"
+#  ni_axes     = "R-L,A-P,I-S"
+#  ni_stat     = "Correl(19,1,0)"
+# >
+ -0.019806
+ 0.0709045
+ 0.228362
+ 0.35022
+ -0.0655327
+ 0.171494
+ -0.636531
+# </AFNI_3D_dataset>

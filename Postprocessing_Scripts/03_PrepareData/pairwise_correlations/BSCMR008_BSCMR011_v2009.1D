@@ -1,0 +1,17 @@
+# <AFNI_3D_dataset
+#  self_idcode = "AFN_C07aXtvGK_MIonxBOXDn-A"
+#  ni_type     = "1*float"
+#  ni_dimen    = "7,1,1"
+#  ni_delta    = "1,1,1"
+#  ni_origin   = "0,0,0"
+#  ni_axes     = "R-L,A-P,I-S"
+#  ni_stat     = "Correl(19,1,0)"
+# >
+ 0.319401
+ 0.687193
+ 0.661367
+ 0.602604
+ 0.245581
+ 0.100408
+ 0.119743
+# </AFNI_3D_dataset>
